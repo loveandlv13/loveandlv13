@@ -1,10 +1,4 @@
-she/her, 19 
-
-suffolk u '27
-
-bio major & cs minor
-
-> top languages:
+top languages:
 - python
 - java
 
